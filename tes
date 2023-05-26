@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-05-15 10:30",
+    "name": "Example 1",
+    "example": "Example 1"
+  },
+  {
+    "date": "2023-05-15 14:45",
+    "name": "Example 2",
+    "example": "Example 2"
+  },
+  {
+    "date": "2023-05-15 18:15",
+    "name": "Example 3",
+    "example": "Result 3"
+  }
+]
